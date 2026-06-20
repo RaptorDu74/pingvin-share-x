@@ -256,8 +256,21 @@ export default {
   "admin.button.users": "User management",
   "admin.button.shares": "Share management",
   "admin.button.config": "Configuration",
+  "admin.button.stats": "Statistics",
   "admin.version": "Version",
   // END /admin
+
+  // /admin/stats
+  "admin.stats.title": "Statistics",
+  "admin.stats.totalShares": "Total shares",
+  "admin.stats.activeShares": "Active shares",
+  "admin.stats.totalFiles": "Total files",
+  "admin.stats.totalUsers": "Total users",
+  "admin.stats.totalViews": "Total views",
+  "admin.stats.totalSize": "Total size",
+  "admin.stats.sharesLast7Days": "New shares (7 days)",
+  "admin.stats.sharesLast30Days": "New shares (30 days)",
+  // END /admin/stats
 
   // /admin/users
   "admin.users.title": "User management",
